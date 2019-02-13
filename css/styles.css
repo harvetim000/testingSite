@@ -1,10 +1,10 @@
 @charset "UTF-8";
 body {
 	background-color: #AA3335;
-	background-image: url(/img/background.jpeg), -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(188,43,43,1.00) 100%);
-	background-image: url(/img/background.jpeg), -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(188,43,43,1.00) 100%);
-	background-image: url(/img/background.jpeg), -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(188,43,43,1.00) 100%);
-	background-image: url(/img/background.jpeg), linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(188,43,43,1.00) 100%);
+	background-image: url(/images/background.jpeg), -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(188,43,43,1.00) 100%);
+	background-image: url(/images/background.jpeg), -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(188,43,43,1.00) 100%);
+	background-image: url(/images/background.jpeg), -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(188,43,43,1.00) 100%);
+	background-image: url(/images/background.jpeg), linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(188,43,43,1.00) 100%);
 	background-size: cover;
 	background-attachment: fixed;
 	font-family: actor;
